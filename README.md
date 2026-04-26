@@ -16,7 +16,5 @@
 
   Как запустить
 1. Убедитесь, что у вас установлен `Python 3.8+`
-2. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/tatarinmen/random-task-generator.git
-   cd random-task-generator
+2. Скачать репозиторий, определить все папки из проекта в какую то одну и открыть ее через любое IDE
+   
